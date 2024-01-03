@@ -4,5 +4,6 @@ Vision Lab aims to advance the state of the art in medical image segmentation by
 
 ## Architecture
 ![MHA_Arch](https://github.com/Bhavjot-Singh03/Vision_Lab/assets/131793243/5feb4af2-bf3a-4f0d-bd4c-f51ea01ad3ca)
+MHSAR Block
 ![MHA_Block](https://github.com/Bhavjot-Singh03/Vision_Lab/assets/131793243/489e1795-9913-42df-bd5a-951ada0339eb)
 
