@@ -2,7 +2,7 @@
 
 | Accuracy & Loss | Intersection over Union & Dice Coefficient |
 |---|---|
-| ![acc_loss_ins](https://github.com/Bhavjot-Singh03/VisionFuseNet/assets/131793243/7748021e-213a-4ec4-bfe1-2671edc9cbfb) | ![iou_dice_ins](https://github.com/Bhavjot-Singh03/VisionFuseNet/assets/131793243/957f56b8-5bfb-48f7-9cff-b7c1c00e8c65)|
+| ![instrument_acc_loss](https://github.com/Bhavjot-Singh03/Vision_Lab/assets/131793243/97a8bb37-9e08-4103-885a-619c7bf3685a) | ![instrument_iou_dice](https://github.com/Bhavjot-Singh03/Vision_Lab/assets/131793243/430bbfd3-e07a-4280-8f2f-7c67b220f4a3)|
 
 ## Kvasir-Seg
 
